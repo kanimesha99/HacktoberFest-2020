@@ -1,12 +1,9 @@
-// PROGRAM-NAME : poem
-// By biby varghese
-// PROGRAM-CODE :
 #include<stdio.h>
-int main()
+void main()
 {
-printf("twinkle twinkle little star..\n");
-printf("how i wonder what you want..\n");
-printf("up above in the world of sky..\n");
-printf("like a dimond in the sky..\n");
-return 0;
-}
+  printf("Twinkle TWinkle little star..\n");
+  printf("How i wonder what you want..\n");
+  printf("Up above in the world of sky..\n");
+  printf("Like a diamond in the sky..\n");
+
+} 
